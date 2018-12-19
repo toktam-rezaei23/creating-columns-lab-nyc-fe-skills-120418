@@ -51,10 +51,12 @@ img:hover {
 }
 
 .large {
-  width: 500%;
-  height: 500%
-  padding: 25%;
+  width: 200%;
+  height: 200%
 }
+
+.small {}
+.med {}
 
 
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
