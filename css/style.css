@@ -47,7 +47,7 @@ img:hover {
 }
 
 .column {
-  width:31%;
+  width:25%;
 }
 
 .large {
@@ -58,7 +58,9 @@ img:hover {
 .small {
   float: left;
 }
-.med {}
+.med {
+  
+}
 
 
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
