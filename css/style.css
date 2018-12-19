@@ -52,7 +52,8 @@ img:hover {
 .small {}
 .med {}
 .large {
-  
+  width: 200%;
+  height: 200%
 }
 img {
   
