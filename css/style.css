@@ -55,7 +55,9 @@ img:hover {
   height: 200%
 }
 
-.small {}
+.small {
+  float: left;
+}
 .med {}
 
 
